@@ -1,6 +1,6 @@
 ### Hi, I'm Ivan! 👋
 
-[![ivantung.ml](https://img.shields.io/badge/ivantung.ml-3066C9?style=for-the-badge&logo=About.me&logoColor=white)](https://ivantung.ml)
+[![skytect.one](https://img.shields.io/badge/skytect.one-3066C9?style=for-the-badge&logo=about.me&logoColor=white)](https://skytect.one)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivantung/)
 
 <!--
